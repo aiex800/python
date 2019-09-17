@@ -14,4 +14,4 @@ while run.lower() == "y":
     randomNumber = random.randint(1, sides)
     print(randomNumber)
 
-    run = input("Vill du Alexander rulla en till tärning Y/N")
+    run = input("Vill du rulla en till tärning Y/N")
